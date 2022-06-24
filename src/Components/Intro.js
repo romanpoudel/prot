@@ -5,7 +5,7 @@ function Intro() {
   return (
     <div
       id="intro"
-      className="flex  w-screen h-screen  mt-14 p-20"
+      className="flex  w-screen h-screen  mt-2 p-20"
       style={{ backgroundColor: "#072238" }}
     >
       <div className="mt-14 mr-10 pr-4 w-2/4 flex flex-col justify-center">

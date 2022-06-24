@@ -10,7 +10,8 @@ module.exports = {
         'cookie':'Cookie',
         'vibes':'Great Vibes',
         'pacific':'Pacifico',
-        'dm':'DM Serif Display'
+        'dm':'DM Serif Display',
+        'joan':'Joan'
       }
     },
     
