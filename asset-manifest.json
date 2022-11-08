@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prot/static/css/main.a643251d.css",
+    "main.js": "/prot/static/js/main.c3422450.js",
+    "static/js/787.c9016fb8.chunk.js": "/prot/static/js/787.c9016fb8.chunk.js",
+    "static/media/roman.jpg": "/prot/static/media/roman.8a342c890ee8a1e4dee0.jpg",
+    "index.html": "/prot/index.html",
+    "main.a643251d.css.map": "/prot/static/css/main.a643251d.css.map",
+    "main.c3422450.js.map": "/prot/static/js/main.c3422450.js.map",
+    "787.c9016fb8.chunk.js.map": "/prot/static/js/787.c9016fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a643251d.css",
+    "static/js/main.c3422450.js"
+  ]
+}
