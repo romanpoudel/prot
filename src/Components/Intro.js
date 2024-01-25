@@ -7,7 +7,7 @@ function Intro() {
       id="intro"
       className="flex flex-col items-center md:flex-row gap-20 md:gap-0 w-screen h-screen  mt-2 p-20 bg-[#072238]"
     >
-      <div className="mt-14 sm:mt-0 md:w-2/4 flex flex-col items-center">
+      <div className="mt-14 md:mt-0 md:w-2/4 flex flex-col items-center">
         <img
           src={img}
           alt="profile_image"
