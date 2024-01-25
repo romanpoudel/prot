@@ -6,9 +6,9 @@ import CodeIcon from "@mui/icons-material/Code";
 function Project({ project, demo, code, src }) {
   return (
     <div className="w-72 border-white border-4 rounded-lg m-auto bg-[#072238]">
-      <div className="border-transparent  bg-white h-3/4 w-full">
+      <div className="border-transparent  bg-white h-[200px] w-full">
         <img
-          className="object-cover hover:object-scale-down rounded-t-lg h-full bg-[#072238]"
+          className="rounded-t-lg bg-[#072238]  h-full object-cover"
           src={src}
           alt="demo img"
         />

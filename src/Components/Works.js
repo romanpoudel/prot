@@ -1,8 +1,6 @@
 import React from "react";
 import Project from "./Project";
 import data from "../projects.json";
-// import ArrowBackIosIcon from "@mui/icons-material/ArrowBackIos";
-// import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
@@ -12,7 +10,7 @@ function Works() {
     dots: false,
     infinite: true,
     speed: 700,
-    autoplay: true,
+    // autoplay: true,
     slidesToShow: 4,
     slidesToScroll: 1,
     autoplaySpeed: 2000,

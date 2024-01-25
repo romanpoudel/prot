@@ -4,34 +4,34 @@
     "project": "Beauty Parlour",
     "demo": "https://parlour-sooty.vercel.app/",
     "code": "https://github.com/romanpoudel/parlour",
-    "src": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "src": "./images/parlour.png"
   },
   {
     "id": 2,
     "project": "Online Store",
     "demo": "https://onlineshop-nu.vercel.app/",
     "code": "https://github.com/romanpoudel/onlineshop",
-    "src": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "src": "./images/onlineshop.png"
   },
   {
     "id": 3,
     "project": "Dictionary",
     "demo": "https://dictionary-gold-seven.vercel.app/",
     "code": "https://github.com/romanpoudel/dictionary",
-    "src": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "src": "./images/dictionary.png"
   },
   {
     "id": 4,
     "project": "Unsplash Image Search App",
     "demo": "https://vercel.com/romanpoudel/unsplash-image-search-app",
     "code": "https://github.com/romanpoudel/unsplash-image-search-app",
-    "src": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "src": "./images/imagesearch.png"
   },
   {
     "id": 5,
     "project": "Resi-Review",
     "demo": "",
     "code": "https://github.com/romanpoudel/resi-review",
-    "src": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "src": "./images/resi-review.png"
   }
 ]
