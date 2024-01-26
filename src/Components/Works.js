@@ -10,7 +10,7 @@ function Works() {
     dots: false,
     infinite: true,
     speed: 700,
-    // autoplay: true,
+    autoplay: true,
     slidesToShow: 4,
     slidesToScroll: 1,
     autoplaySpeed: 2000,

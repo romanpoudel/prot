@@ -8,7 +8,7 @@ function Project({ project, demo, code, src }) {
     <div className="w-72 border-white border-4 rounded-lg m-auto bg-[#072238]">
       <div className="border-transparent  bg-white h-[200px] w-full">
         <img
-          className="rounded-t-lg bg-[#072238]  h-full object-cover"
+          className="rounded-t-lg bg-[#072238]  h-full"
           src={src}
           alt="demo img"
         />
@@ -17,7 +17,6 @@ function Project({ project, demo, code, src }) {
         <div className="text-center text-white font-cookie text-xl pt-2">
           {project}
         </div>
-        {/* <br /> */}
         <div className="text-center">
           <IconButton color="primary" href={demo}>
             <VisibilityOutlinedIcon />
